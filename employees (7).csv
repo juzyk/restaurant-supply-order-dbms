@@ -1,0 +1,35 @@
+employee_id,first_name,last_name,role,salary
+1,Eustace,Coxwell,Waiter,2300
+2,Berte,Gregorin,Waiter,2300
+3,Krystyna,Ker,Waiter,2300
+4,Gaby,Seedhouse,Waiter,2300
+5,Abby,Hesey,Waiter,2300
+6,Dell,Hutchin,Waiter,2300
+7,Hansiain,Sibbons,Waiter,2300
+8,Drugi,MacAlroy,Waiter,2300
+9,Gussi,Gillott,Host,2400
+10,Toinette,Boon,Host,2400
+11,Daisie,Ackeroyd,Chef,4500
+12,Lianne,Harries,Chef,4500
+13,Brittaney,Giacobelli,Pastry Chef,3200
+14,Astra,Dannel,Cook,2800
+15,Sharia,Gillham,Cook,2800
+16,Loleta,Esilmon,Cook,2800
+17,Ted,Barukh,Cook,2800
+18,Odella,Tabary,Cook,2800
+19,Kenon,Noods,Barista,2500
+20,Aylmer,Knottley,Barista,2500
+21,Garrott,Casham,Barista,2500
+22,Solly,Arthan,Barista,2500
+23,Royal,Peyes,Cleaner,2000
+24,Joaquin,Emett,Cleaner,2000
+25,Tod,Leades,Cleaner,2000
+26,Yvon,Edden,Manager,5500
+27,Bjorn,Feighney,Supply Controller,3200
+28,Ambrosi,Krishtopaittis,Supply Controller,3200
+29,El,Yeld,HR Coordinator,3500
+30,Richy,Smullen,Cashier,2300
+31,Arther,Crepin,Cashier,2300
+32,Celestia,Greeves,Delivery Driver,2400
+33,Nedda,Eneas,Dishwasher,1900
+34,Adiana,Petken,Dishwasher,1900

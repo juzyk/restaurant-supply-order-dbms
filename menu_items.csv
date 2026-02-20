@@ -1,0 +1,101 @@
+menu_item_id,item_name,price,category,is_available
+1,Americano,3.50,Coffee,Yes
+2,Cappuccino,4.00,Coffee,Yes
+3,Latte,4.50,Coffee,Yes
+4,Flat White,4.20,Coffee,Yes
+5,Espresso,2.80,Coffee,Yes
+6,Mocha,4.80,Coffee,Yes
+7,Macchiato,3.20,Coffee,Yes
+8,Matcha Latte,5.00,Coffee,Yes
+9,Iced Latte,4.50,Coffee,Yes
+10,Iced Americano,3.00,Coffee,No
+11,Caramel Latte,4.80,Coffee,Yes
+12,Vanilla Latte,4.80,Coffee,Yes
+13,Cortado,3.80,Coffee,Yes
+14,Frappe,4.50,Coffee,Yes
+15,Hot Chocolate,3.50,Coffee,Yes
+16,Black Tea,2.50,Tea,Yes
+17,Green Tea,2.80,Tea,Yes
+18,White Tea,3.20,Tea,Yes
+19,Oolong Tea,3.50,Tea,Yes
+20,Earl Grey,3.00,Tea,Yes
+21,Jasmine Tea,3.20,Tea,Yes
+22,Ginger Tea,2.80,Tea,Yes
+23,Mint Tea,2.80,Tea,Yes
+24,Rooibos Tea,3.50,Tea,Yes
+25,Berry Tea,3.80,Tea,No
+26,Iced Tea,3.00,Tea,Yes
+27,Masala Chai,3.50,Tea,Yes
+28,Lemonade,3.50,Cold Drink,Yes
+29,Iced Lemonade,4.00,Cold Drink,Yes
+30,Peach Iced Tea,4.20,Cold Drink,Yes
+31,Berry Smoothie,4.80,Cold Drink,Yes
+32,Strawberry Smoothie,5.20,Cold Drink,Yes
+33,Mango Smoothie,5.50,Cold Drink,Yes
+34,Vanilla Milkshake,4.50,Cold Drink,Yes
+35,Chocolate Milkshake,4.50,Cold Drink,Yes
+36,Iced Matcha,4.80,Cold Drink,No
+37,Cold Brew,4.20,Cold Drink,Yes
+38,Orange Juice,3.80,Cold Drink,Yes
+39,Apple Juice,3.50,Cold Drink,Yes
+40,Cheesecake,5.50,Dessert,Yes
+41,Chocolate Cake,6.00,Dessert,Yes
+42,Brownie,4.00,Dessert,No
+43,Tiramisu,6.50,Dessert,No
+44,Carrot Cake,4.80,Dessert,Yes
+45,Croissant,3.00,Dessert,Yes
+46,Almond Croissant,3.50,Dessert,Yes
+47,Pain au Chocolat,3.50,Dessert,No
+48,Muffin,3.20,Dessert,Yes
+49,Blueberry Muffin,3.50,Dessert,Yes
+50,Chocolate Chip Cookie,2.80,Dessert,Yes
+51,Apple Pie,4.20,Dessert,Yes
+52,French Fries,3.50,Snack,No
+53,Onion Rings,3.00,Snack,Yes
+54,Garlic Bread,3.20,Snack,Yes
+55,Cheese Sticks,4.00,Snack,Yes
+56,Nachos,4.80,Snack,Yes
+57,Chips & Salsa,3.50,Snack,Yes
+58,Hummus & Pita,4.50,Snack,Yes
+59,Mini Sandwich,4.00,Snack,Yes
+60,Bruschetta,4.50,Snack,Yes
+61,Avocado Toast,5.00,Snack,Yes
+62,Omelette,5.00,Breakfast,Yes
+63,Pancakes,5.50,Breakfast,No
+64,Waffles,6.00,Breakfast,Yes
+65,Scrambled Eggs,4.80,Breakfast,Yes
+66,Eggs Benedict,7.00,Breakfast,Yes
+67,English Breakfast,8.50,Breakfast,Yes
+68,Yogurt Parfait,5.50,Breakfast,Yes
+69,Granola Bowl,5.20,Breakfast,Yes
+70,Fruit Salad,4.50,Breakfast,Yes
+71,French Toast,5.80,Breakfast,No
+72,Chicken Caesar Wrap,7.50,Lunch,Yes
+73,Club Sandwich,6.50,Lunch,Yes
+74,BLT Sandwich,6.00,Lunch,Yes
+75,Pasta Alfredo,8.00,Lunch,Yes
+76,Pasta Bolognese,8.50,Lunch,Yes
+77,Tomato Soup,4.00,Lunch,Yes
+78,Chicken Soup,5.00,Lunch,Yes
+79,Vegetable Pizza,8.50,Lunch,Yes
+80,Margherita Pizza,8.00,Lunch,Yes
+81,Chicken Wrap,7.00,Lunch,No
+82,Grilled Salmon,12.00,Dinner,No
+83,Steak,15.00,Dinner,Yes
+84,Beef Stir-fry,10.50,Dinner,Yes
+85,Chicken Curry,9.50,Dinner,Yes
+86,Vegetable Curry,8.50,Dinner,Yes
+87,Shrimp Pasta,12.50,Dinner,Yes
+88,Vegetable Stir-fry,9.00,Dinner,Yes
+89,Fried Rice,7.00,Dinner,Yes
+90,Chicken Rice Bowl,8.00,Dinner,Yes
+91,Caesar Salad,7.00,Salad,Yes
+92,Greek Salad,6.00,Salad,Yes
+93,Garden Salad,5.50,Salad,Yes
+94,Chicken Caesar Salad,8.00,Salad,Yes
+95,Tuna Salad,7.50,Salad,Yes
+96,Shrimp Salad,9.00,Salad,Yes
+97,Caprese Salad,6.50,Salad,Yes
+98,Quinoa Salad,8.50,Salad,Yes
+99,Avocado Salad,7.50,Salad,Yes
+100,Mediterranean Salad,8.00,Salad,Yes

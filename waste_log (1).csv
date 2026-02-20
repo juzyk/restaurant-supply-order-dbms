@@ -1,0 +1,101 @@
+waste_id,log_id,reason_type
+1,840,Expired
+2,825,Expired
+3,535,Damaged during storage
+4,554,Damaged during storage
+5,516,Spilled
+6,239,Burned during cooking
+7,291,Wrong temperature storage
+8,295,Over-prepared
+9,475,Over-prepared
+10,922,Wrong temperature storage
+11,375,Burned during cooking
+12,267,Supplier quality issue
+13,567,Burned during cooking
+14,382,Burned during cooking
+15,15,Over-prepared
+16,302,Burned during cooking
+17,379,Supplier quality issue
+18,546,Spilled
+19,536,Wrong temperature storage
+20,797,Over-prepared
+21,294,Expired
+22,438,Expired
+23,173,Damaged during storage
+24,559,Damaged during storage
+25,353,Spilled
+26,982,Expired
+27,540,Expired
+28,51,Wrong temperature storage
+29,409,Expired
+30,834,Over-prepared
+31,588,Spilled
+32,384,Damaged during storage
+33,941,Wrong temperature storage
+34,390,Burned during cooking
+35,657,Over-prepared
+36,905,Wrong temperature storage
+37,672,Spilled
+38,55,Supplier quality issue
+39,938,Wrong temperature storage
+40,580,Supplier quality issue
+41,921,Over-prepared
+42,118,Over-prepared
+43,158,Burned during cooking
+44,320,Over-prepared
+45,303,Supplier quality issue
+46,299,Damaged during storage
+47,968,Damaged during storage
+48,287,Damaged during storage
+49,879,Burned during cooking
+50,540,Burned during cooking
+51,500,Spilled
+52,913,Supplier quality issue
+53,550,Spilled
+54,124,Burned during cooking
+55,562,Spilled
+56,768,Over-prepared
+57,690,Wrong temperature storage
+58,935,Burned during cooking
+59,642,Wrong temperature storage
+60,974,Wrong temperature storage
+61,707,Damaged during storage
+62,954,Expired
+63,206,Spilled
+64,955,Over-prepared
+65,824,Expired
+66,264,Over-prepared
+67,459,Spilled
+68,466,Wrong temperature storage
+69,455,Damaged during storage
+70,451,Wrong temperature storage
+71,449,Burned during cooking
+72,499,Expired
+73,214,Burned during cooking
+74,343,Damaged during storage
+75,799,Supplier quality issue
+76,937,Burned during cooking
+77,764,Burned during cooking
+78,342,Spilled
+79,320,Supplier quality issue
+80,630,Damaged during storage
+81,414,Spilled
+82,856,Over-prepared
+83,359,Over-prepared
+84,774,Burned during cooking
+85,246,Supplier quality issue
+86,218,Damaged during storage
+87,636,Supplier quality issue
+88,556,Burned during cooking
+89,559,Expired
+90,309,Expired
+91,817,Damaged during storage
+92,397,Damaged during storage
+93,186,Expired
+94,197,Expired
+95,359,Over-prepared
+96,1,Expired
+97,655,Supplier quality issue
+98,161,Over-prepared
+99,263,Burned during cooking
+100,694,Over-prepared

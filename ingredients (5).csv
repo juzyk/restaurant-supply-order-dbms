@@ -1,0 +1,117 @@
+ingredient_id,ingredient_name,unit_price,unit,current_stock,reorder_level,supplier_id
+1,Coffee Beans,12.00,kg,10,2,24
+2,Espresso Beans,13.50,kg,16,3,68
+3,Decaf Coffee Beans,14.00,kg,12,3,21
+4,Milk,1.20,liter,19,7,13
+5,Skim Milk,1.50,liter,7,2,33
+6,Oat Milk,1.80,liter,6,1,88
+7,Soy Mail,1.80,liter,13,3,31
+8,Cream,2.00,liter,12,4,23
+9,Whipped Cream,3.00,pcs,53,14,15
+10,Vanilla Syrup,4.00,bottle,11,2,81
+11,Caramel Syrup,4.50,bottle,19,7,59
+12,Hazelnut Syrup,4.50,bottle,4,0,28
+13,Chocolate Syrup,3.80,bottle,3,1,37
+14,Matcha Powder,6.00,g,977,136,85
+15,Cocoa Powder,3.50,g,1540,154,13
+16,Sugar,0.80,kg,17,4,56
+17,Brown Sugar,1.00,kg,16,4,67
+18,Honey,3.00,bottle,19,7,17
+19,Ice Cubes,0.10,pcs,77,20,55
+20,Water,0.50,liter,26,5,32
+21,Black Tea Leaves,8.00,g,1926,308,37
+22,Green Tea Leaves,9.00,g,1515,287,15
+23,White Tea Leaves,10.00,g,386,50,47
+24,Oolong Tea Leaves,11.00,g,1701,204,60
+25,Earl Grey Tea Leaves,9.50,g,535,64,35
+26,Jasmine Tea Leaves,8.50,g,1246,186,80
+27,Mint Leaves,2.00,g,870,165,73
+28,Ginger,3.00,g,1924,288,58
+29,Rooibos Tea Leaves,6.00,g,1448,217,14
+30,Berry Mix,0.60,pcs,103,22,17
+31,Lemon,5.00,bottle,8,2,71
+32,Peach Syrup,7.00,pack,9,1,85
+33,Mango Puree,6.50,pack,25,3,41
+34,Strawberry Puree,0.80,pcs,154,43,47
+35,Orange,1.20,pcs,198,51,18
+36,Apples,0.90,pcs,74,25,99
+37,Flour,1.00,g,1808,289,94
+38,Baking Powder,1.20,g,1476,162,43
+39,Baking Soda,0.90,g,1960,274,37
+40,Butter,0.90,g,1327,199,87
+41,Eggs,2.50,pcs,184,66,20
+42,Cream Cheese,2.80,pcs,37,10,92
+43,Mascarpone,3.00,liter,28,6,13
+44,Heavy Cream,4.50,pcs,119,24,69
+45,Yogurt,1.00,pcs,126,32,2
+46,Blueberries,2.50,pcs,187,48,35
+47,Strawberries,3.00,pcs,102,32,87
+48,Bananas,1.80,pcs,54,17,80
+49,Chocolate Chips,2.20,pcs,93,28,47
+50,Vanilla Extract,1.40,g,1968,314,23
+51,Cinnamon,5.00,g,1182,212,19
+52,Yeast,4.50,g,1035,103,51
+53,Almonds,6.00,g,867,156,99
+54,Croissant Dough,3.00,pcs,37,14,90
+55,Puff Pastry Dough,7.00,pcs,105,25,51
+56,Breadcrumbs,4.00,pcs,128,35,66
+57,Potatoes,6.00,pcs,74,22,22
+58,Onions,1.20,pcs,93,18,22
+59,Garlic,0.60,pcs,150,60,72
+60,Mozzarella,0.50,pcs,93,21,29
+61,Cheddar Cheese,0.40,pcs,193,40,52
+62,Parmesan Cheese,6.00,pcs,57,22,75
+63,Tortilla Chips,5.00,pcs,59,21,17
+64,Tomato Salsa,4.50,pcs,114,44,73
+65,Pita Bread,3.50,pcs,152,31,41
+66,Hummus,1.50,pcs,64,23,77
+67,Tomatoes,2.00,pcs,113,37,61
+68,Basil,1.20,pcs,92,30,4
+69,Avocado,3.00,pcs,122,45,63
+70,Olive Oil,1.00,pcs,153,35,39
+71,Salt,0.50,pcs,96,33,58
+72,Black Pepper,1.20,pcs,99,26,77
+73,Parsley,2.00,pcs,138,28,46
+74,Syrup,4.00,g,777,124,97
+75,Bacon,5.50,g,1049,157,83
+76,Sausages,3.50,g,861,120,81
+77,Mushrooms,4.00,g,540,64,39
+78,Spinach,3.20,g,1843,294,91
+79,Granola,1.50,g,650,104,42
+80,Greek Yogurt,0.80,g,1077,204,47
+81,Mixed Fruits,1.50,pcs,112,35,17
+82,Bread,10.00,pcs,120,32,22
+83,Maple Syrup,12.00,pcs,66,18,11
+84,Jam,15.00,pcs,150,36,65
+85,Chicken Breast,9.00,pcs,39,14,49
+86,Beef,4.00,pcs,69,22,45
+87,Salmon,2.50,pcs,23,8,80
+88,Shrimp,3.00,pcs,47,11,25
+89,Rice,1.50,pcs,20,4,21
+90,Pasta,2.00,pcs,57,12,5
+91,Tomato Sauce,1.20,pcs,105,26,44
+92,Cream Sauce,6.50,pcs,83,16,11
+93,Bell Peppers,5.50,pcs,62,16,60
+94,Carrots,2.80,pcs,198,41,12
+95,Broccoli,1.50,pcs,35,9,93
+96,Zucchini,2.50,pcs,54,21,77
+97,Curry Paste,1.80,pcs,56,11,18
+98,Coconut Milk,4.00,pcs,113,42,50
+99,Vegetable Broth,3.50,pcs,136,40,88
+100,Chicken Broth,3.80,pcs,89,30,18
+101,Pizza Dough,2.50,pcs,143,35,60
+102,Oregano,5.00,pcs,132,35,45
+103,Lettuce,4.50,pcs,74,24,41
+104,Romaine Lettuce,3.00,pcs,45,17,61
+105,Cherry Tomatoes,6.00,kg,21,5,23
+106,Cucumbers,2.80,kg,15,4,10
+107,Olives,4.00,kg,19,3,28
+108,Feta Cheese,5.50,liter,26,5,52
+109,Croutons,12.00,liter,7,2,47
+110,Quinoa,13.50,liter,18,5,60
+111,Capers,14.00,liter,28,11,96
+112,Tuna,1.20,liter,18,6,84
+113,Red Onion,1.50,pcs,75,17,63
+114,Lemon Juice,1.80,bottle,16,6,71
+115,Vinaigrette Dressing,1.80,bottle,7,2,60
+116,Caesar Dressing,2.00,bottle,20,7,1
